@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
 
        txtTitle.setText(name);
 
+
+
        image.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View v) {
