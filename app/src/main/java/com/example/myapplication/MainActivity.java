@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
                if (txtTitle.getText().equals(name)){
                    txtTitle.setText(name2);
                }else {
+
                    txtTitle.setText(name);
                }
            }
