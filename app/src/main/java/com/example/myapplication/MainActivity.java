@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
         txtTitle = findViewById(R.id.txtText);
         image = findViewById(R.id.imageTitle);
 
+
+
         String name = "Picture";
        String name2 = "Adelina";
 
